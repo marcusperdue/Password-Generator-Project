@@ -22,7 +22,7 @@ Javascript: The Javascript is located in "script.js" file.
 
 ## Deployment
 
-The Password Generator webpage has been deployed to GitHub Pages and is accessible online. You can view the live website by visiting the following URL: https://marcusperdue.github.io/password-generator-project/
+The Password Generator webpage has been deployed to GitHub Pages and is accessible online. You can view the live website by visiting the following URL: https://marcusperdue.github.io/Password-Generator-Project/
 
 ## Visual
 
