@@ -9,12 +9,12 @@ function writePassword() {
   var chars = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&()*+,-./:;<=>?@[\]^_`{|}~";
 
   // Prompts for password length
-  var passwordLength = prompt("Enter password length (between 8 and 16):");
+  var passwordLength = prompt("Enter password length (between 8 and 128):");
   passwordLength = parseInt(passwordLength);
 
   // Validate password length
-  if (passwordLength < 8 || passwordLength > 16 || isNaN(passwordLength)) {
-    alert("Enter a valid number between 8 and 16.");
+  if (passwordLength < 8 || passwordLength > 128 || isNaN(passwordLength)) {
+    alert("Enter a valid number between 8 and 128.");
     return;
   }
 
