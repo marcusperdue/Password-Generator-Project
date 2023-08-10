@@ -8,7 +8,7 @@ A simple JavaScript password generator that creates random passwords using a set
 
 ## How to View the Code
 
-Clone the Repository: ```git clone git@github.com:marcusperdue/password-generator-project.git ```
+Clone the Repository: ```git clone git@github.com:marcusperdue/Password-Generator-Project.git ```
 
 Open the Files.
 
